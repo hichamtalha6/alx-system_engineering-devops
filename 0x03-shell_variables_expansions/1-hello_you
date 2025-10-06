@@ -1,5 +1,2 @@
-#!/bin/bash
-# File: 2-hello_you
-# Description: Prints "hello" followed by the current Linux user
 
 echo "hello $USER"
